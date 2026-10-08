@@ -13,6 +13,7 @@ cover_image: ./images/Screenshot (922).png
 ---
 
 > 🔗 **Live Demo:** [touch-grass-blond.vercel.app](https://touch-grass-blond.vercel.app/) — Try it now, no install required.
+> 🐙 **GitHub:** [github.com/nonsense3/Touch-Grass](https://github.com/nonsense3/Touch-Grass)
 
 ---
 
