@@ -12,6 +12,10 @@ cover_image: ./images/Screenshot (922).png
 
 ---
 
+> 🔗 **Live Demo:** [touch-grass-blond.vercel.app](https://touch-grass-blond.vercel.app/) — Try it now, no install required.
+
+---
+
 ## 🌿 The Premise: An AI Designed to Shut Off Your Screen
 
 Every commercial AI product on the market is engineered around a toxic metric: **continuous user engagement**. They want you to keep chatting, keep querying, and keep staring at glass.
@@ -126,6 +130,11 @@ Here is what happened:
 | **Hardware Accel** | NVIDIA TensorRT-LLM Microservices & Apple Silicon / Android NPU WebAssembly fallback |
 | **Typography** | Anton (Display 8xl-9xl) & Satoshi |
 | **License** | Apache-2.0 (100% Open Source) |
+
+---
+
+> 🔗 **Try It Live:** [touch-grass-blond.vercel.app](https://touch-grass-blond.vercel.app/)
+> 💻 **Source Code:** [github.com/nonsense3/Touch-Grass](https://github.com/nonsense3/Touch-Grass)
 
 ---
 
